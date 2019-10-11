@@ -1,0 +1,3 @@
+api_key: "YOUR_API_KEY"
+country_code: "+1"
+from_number: "YOUR_TELNYX_NUMBER"
